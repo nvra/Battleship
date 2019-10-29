@@ -1,0 +1,6 @@
+C:\Users\NagaVani\Desktop\Vani\work\OFX\Battleship\Battleship\bin\Debug\Battleship.exe.config
+C:\Users\NagaVani\Desktop\Vani\work\OFX\Battleship\Battleship\bin\Debug\Battleship.exe
+C:\Users\NagaVani\Desktop\Vani\work\OFX\Battleship\Battleship\bin\Debug\Battleship.pdb
+C:\Users\NagaVani\Desktop\Vani\work\OFX\Battleship\Battleship\obj\Debug\Battleship.exe
+C:\Users\NagaVani\Desktop\Vani\work\OFX\Battleship\Battleship\obj\Debug\Battleship.pdb
+C:\Users\NagaVani\Desktop\Vani\work\OFX\Battleship\Battleship\obj\Debug\Battleship.csprojAssemblyReference.cache
